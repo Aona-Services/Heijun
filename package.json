@@ -1,0 +1,11 @@
+{
+  "name": "heijun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "WTFPL",
+  "author": {
+    "email": "hana@disroot.org",
+    "name": "Haneul Seong",
+    "url": "https://hana.uno/"
+  }
+}
