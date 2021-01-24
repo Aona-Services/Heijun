@@ -52,3 +52,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 .idea
+config.json
